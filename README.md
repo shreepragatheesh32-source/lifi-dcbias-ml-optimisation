@@ -18,8 +18,6 @@ dataset incorporating:
 - 50 Hz ambient lighting interference
 - LOS + first-reflection multipath channel
 
-![LiFi System Diagram](lifi_system_diagram.png)
-
 ---
 
 ## Research Question
@@ -51,8 +49,8 @@ of optimal bias voltage.
 |---|---|
 | `thesis.ipynb` | Full notebook — simulation, dataset generation, ML training & evaluation |
 | `lifi_project.osd` | OptiSystem simulation project file (LiFi DCO-OFDM channel model) |
-| `research_presentation.pptx` | 13-slide research presentation |
-| `lifi_system_diagram.png` | LiFi system architecture infographic |
+| `ppt.pptx` | 13-slide research presentation |
+| `Image_Nov_7__2025__09_58_29_PM.png` | LiFi system architecture infographic |
 | `lifi_ofdm_dataset_realistic_9000.csv` | Base simulation dataset (9,000 samples) |
 | `lifi_ofdm_dataset_realistic_9000_sweep.csv` | Dataset with bias sweep column |
 
